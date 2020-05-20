@@ -298,7 +298,6 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
 		}
 
 	strong, b {
@@ -321,7 +320,6 @@ input, select, textarea {
 	hr {
 		border-bottom-color: #eeeeee;
 	}
-
 /* Row */
 
 	.row {
